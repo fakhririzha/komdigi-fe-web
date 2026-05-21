@@ -1,0 +1,527 @@
+{
+    "data": [
+        {
+            "id": 3604,
+            "nomorLaporan": "541/Medan Marelan;",
+            "subjekLaporan": "gang rusak dan  dranase belum teralisasi menuju jalan permukiman warga;",
+            "kategoriPermasalahan": 10,
+            "penangananKhusus": false,
+            "lokasi": "Jl. Marelan VII  gang   SERI lingkungan 5",
+            "kecamatan": 12,
+            "titikKoordinatLink": "https://goo.gl/maps/CKjFV7wGnYJsxVnk7",
+            "latitude": 3.692326,
+            "longitude": 98.640332,
+            "pelaporOpd": 13,
+            "pelaporName": null,
+            "opdPenanggungJawab": 44,
+            "unitTujuan": null,
+            "tanggalLaporan": 1779210000,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779332562426-d549c0cc-b313-4b03-8c7f-b1a9293282bd-57g172kv.jpg\"]",
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779332562,
+            "updatedAt": 1779332562,
+            "kategoriPermasalahanRef": {
+                "id": 10,
+                "namaKategori": "Jalan rusak/berlubang",
+                "jenisKategori": "Jalan Drainase dan Median Jalan"
+            },
+            "pelaporOpdRef": {
+                "id": 13,
+                "namaOpd": "Kecamatan Medan Marelan",
+                "namaPenanggungJawab": "Dr. . ZULKIFLI SYAHPUTRA PULUNGAN, S.STP, M.AP",
+                "namaJabatanPenanggungJawab": "Camat Medan Marelan Kota Medan"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 44,
+                "namaOpd": "Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan",
+                "namaPenanggungJawab": "KHAIRUL AZMI, S.S.T.P., M.T",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 12,
+                "namaKecamatan": "Medan Marelan"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3603,
+            "nomorLaporan": "540",
+            "subjekLaporan": "Pngecoran jalan",
+            "kategoriPermasalahan": 10,
+            "penangananKhusus": false,
+            "lokasi": "Jl. Situs kota China GG mufakat lingkungan 07",
+            "kecamatan": 12,
+            "titikKoordinatLink": "https://maps.app.goo.gl/zZ28Ub47VfdLmXce6?g_st",
+            "latitude": 3.7216752186311046,
+            "longitude": 98.65741002883544,
+            "pelaporOpd": 13,
+            "pelaporName": null,
+            "opdPenanggungJawab": 44,
+            "unitTujuan": null,
+            "tanggalLaporan": 1779210000,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779332456985-c2a10a65-25a6-44c1-bbe4-69a6d90e9e3c-ghrfzfh3.jpg\"]",
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779332457,
+            "updatedAt": 1779332457,
+            "kategoriPermasalahanRef": {
+                "id": 10,
+                "namaKategori": "Jalan rusak/berlubang",
+                "jenisKategori": "Jalan Drainase dan Median Jalan"
+            },
+            "pelaporOpdRef": {
+                "id": 13,
+                "namaOpd": "Kecamatan Medan Marelan",
+                "namaPenanggungJawab": "Dr. . ZULKIFLI SYAHPUTRA PULUNGAN, S.STP, M.AP",
+                "namaJabatanPenanggungJawab": "Camat Medan Marelan Kota Medan"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 44,
+                "namaOpd": "Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan",
+                "namaPenanggungJawab": "KHAIRUL AZMI, S.S.T.P., M.T",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 12,
+                "namaKecamatan": "Medan Marelan"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3602,
+            "nomorLaporan": "06/Medan Maimun",
+            "subjekLaporan": "Cover slab rusak",
+            "kategoriPermasalahan": 13,
+            "penangananKhusus": false,
+            "lokasi": "Jl. Multatuli Lk. II Kel. Hamdan Kec. Medan Maimun",
+            "kecamatan": 15,
+            "titikKoordinatLink": "https://maps.app.goo.gl/yXrPKArjFj7SaeP16?g_st=ac",
+            "latitude": 3.5769318122681417,
+            "longitude": 98.67933152407257,
+            "pelaporOpd": 13,
+            "pelaporName": null,
+            "opdPenanggungJawab": 44,
+            "unitTujuan": null,
+            "tanggalLaporan": 1779123600,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779332254215-314f32fd-9697-4c3f-93e6-24b77882fba4-omqawu02.jpg\"]",
+            "dokumentasiSurvei": "[]",
+            "dokumentasiTindakan": "[]",
+            "keterangan": null,
+            "createdAt": 1779332254,
+            "updatedAt": 1779332303,
+            "kategoriPermasalahanRef": {
+                "id": 13,
+                "namaKategori": "Tutup slab drainase rusak/ tidak ada",
+                "jenisKategori": "Jalan Drainase dan Median Jalan"
+            },
+            "pelaporOpdRef": {
+                "id": 13,
+                "namaOpd": "Kecamatan Medan Marelan",
+                "namaPenanggungJawab": "Dr. . ZULKIFLI SYAHPUTRA PULUNGAN, S.STP, M.AP",
+                "namaJabatanPenanggungJawab": "Camat Medan Marelan Kota Medan"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 44,
+                "namaOpd": "Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan",
+                "namaPenanggungJawab": "KHAIRUL AZMI, S.S.T.P., M.T",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 15,
+                "namaKecamatan": "Medan Maimun"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3601,
+            "nomorLaporan": "539/Medan Marelan;",
+            "subjekLaporan": " Jalan protokol rusak menghubungkan bnyak gang ke pemukiman warga",
+            "kategoriPermasalahan": 10,
+            "penangananKhusus": false,
+            "lokasi": "Jl. Marelan I lingkungan V Kel.Terjun Kec.Medan Marelan",
+            "kecamatan": 12,
+            "titikKoordinatLink": "https://maps.app.goo.gl/ej6Bdap1pcX9RukA8?g_st=ac",
+            "latitude": 3.704541302687464,
+            "longitude": 98.64716965106052,
+            "pelaporOpd": 13,
+            "pelaporName": null,
+            "opdPenanggungJawab": 44,
+            "unitTujuan": null,
+            "tanggalLaporan": 1779210000,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779331948333-1211e66f-e072-4218-921e-d99dc34e7637-uhcg0h4m.jpg\"]",
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779331948,
+            "updatedAt": 1779331948,
+            "kategoriPermasalahanRef": {
+                "id": 10,
+                "namaKategori": "Jalan rusak/berlubang",
+                "jenisKategori": "Jalan Drainase dan Median Jalan"
+            },
+            "pelaporOpdRef": {
+                "id": 13,
+                "namaOpd": "Kecamatan Medan Marelan",
+                "namaPenanggungJawab": "Dr. . ZULKIFLI SYAHPUTRA PULUNGAN, S.STP, M.AP",
+                "namaJabatanPenanggungJawab": "Camat Medan Marelan Kota Medan"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 44,
+                "namaOpd": "Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan",
+                "namaPenanggungJawab": "KHAIRUL AZMI, S.S.T.P., M.T",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 12,
+                "namaKecamatan": "Medan Marelan"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3600,
+            "nomorLaporan": "06/Medan Maimun",
+            "subjekLaporan": "Cover slab rusak",
+            "kategoriPermasalahan": 13,
+            "penangananKhusus": false,
+            "lokasi": "Jl. Multatuli Lk. II Kel. Hamdan Kec. Medan Maimun",
+            "kecamatan": 15,
+            "titikKoordinatLink": "https://maps.app.goo.gl/yXrPKArjFj7SaeP16?g_st=ac",
+            "latitude": null,
+            "longitude": null,
+            "pelaporOpd": 79,
+            "pelaporName": null,
+            "opdPenanggungJawab": 44,
+            "unitTujuan": null,
+            "tanggalLaporan": 1779331524,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779331783142-314f32fd-9697-4c3f-93e6-24b77882fba4-lvwtajwo.jpg\"]",
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779331783,
+            "updatedAt": 1779331783,
+            "kategoriPermasalahanRef": {
+                "id": 13,
+                "namaKategori": "Tutup slab drainase rusak/ tidak ada",
+                "jenisKategori": "Jalan Drainase dan Median Jalan"
+            },
+            "pelaporOpdRef": {
+                "id": 79,
+                "namaOpd": "Kecamatan Medan Maimun",
+                "namaPenanggungJawab": "RIZKI HARI ADAM LUBIS, S.ST",
+                "namaJabatanPenanggungJawab": "Camat Medan Maimun Kota Medan"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 44,
+                "namaOpd": "Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan",
+                "namaPenanggungJawab": "KHAIRUL AZMI, S.S.T.P., M.T",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Sumber Daya Air, Bina Marga dan Bina Konstruksi Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 15,
+                "namaKecamatan": "Medan Maimun"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3599,
+            "nomorLaporan": "97/MEDAN LABUHAN",
+            "subjekLaporan": "LPJU padam/mati  sebanyak 3 (tiga) titik",
+            "kategoriPermasalahan": 3,
+            "penangananKhusus": false,
+            "lokasi": "Jl. pancing V",
+            "kecamatan": 13,
+            "titikKoordinatLink": "https://maps.app.goo.gl/JoqvgTEx9tWwTLmJ7?g_st=aw",
+            "latitude": 3.7516201,
+            "longitude": 98.6761093,
+            "pelaporOpd": 22,
+            "pelaporName": null,
+            "opdPenanggungJawab": 54,
+            "unitTujuan": null,
+            "tanggalLaporan": 1778950800,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779266887402-1402366a-7f9f-4b2d-8a46-ad41978fb7dc-451scz0k.jpg\"]",
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779266887,
+            "updatedAt": 1779266887,
+            "kategoriPermasalahanRef": {
+                "id": 3,
+                "namaKategori": "LPJU tidak berfungsi",
+                "jenisKategori": "PJU dan Lampu Lalu Lintas"
+            },
+            "pelaporOpdRef": {
+                "id": 22,
+                "namaOpd": "Kecamatan Medan Labuhan",
+                "namaPenanggungJawab": "KHAIRUN NASYIR TAMBUSAI, S.S.T.P., M.SP.",
+                "namaJabatanPenanggungJawab": "Camat Medan Labuhan Kota Medan (Sebelumnya)"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 54,
+                "namaOpd": "Dinas Perhubungan Kota Medan",
+                "namaPenanggungJawab": "IRSAN IDRIS NASUTION, A.P",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Perhubungan Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 13,
+                "namaKecamatan": "Medan Labuhan"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3598,
+            "nomorLaporan": "96/MEDAN LABUHAN",
+            "subjekLaporan": "LPJU padam/mati  sebanyak 3 (TIGA) titik",
+            "kategoriPermasalahan": 3,
+            "penangananKhusus": false,
+            "lokasi": "JL. Ujung tanjung",
+            "kecamatan": 13,
+            "titikKoordinatLink": "https://maps.app.goo.gl/DgVt9YREiX4a1y4H9",
+            "latitude": 3.7353292,
+            "longitude": 98.6747818,
+            "pelaporOpd": 22,
+            "pelaporName": null,
+            "opdPenanggungJawab": 54,
+            "unitTujuan": null,
+            "tanggalLaporan": 1778950800,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": "Tidak ada dokumentasi laporan",
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": null,
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779266685,
+            "updatedAt": 1779266685,
+            "kategoriPermasalahanRef": {
+                "id": 3,
+                "namaKategori": "LPJU tidak berfungsi",
+                "jenisKategori": "PJU dan Lampu Lalu Lintas"
+            },
+            "pelaporOpdRef": {
+                "id": 22,
+                "namaOpd": "Kecamatan Medan Labuhan",
+                "namaPenanggungJawab": "KHAIRUN NASYIR TAMBUSAI, S.S.T.P., M.SP.",
+                "namaJabatanPenanggungJawab": "Camat Medan Labuhan Kota Medan (Sebelumnya)"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 54,
+                "namaOpd": "Dinas Perhubungan Kota Medan",
+                "namaPenanggungJawab": "IRSAN IDRIS NASUTION, A.P",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Perhubungan Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 13,
+                "namaKecamatan": "Medan Labuhan"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3597,
+            "nomorLaporan": "206 / Medan Johor",
+            "subjekLaporan": "lampu lpju mati 4 titik",
+            "kategoriPermasalahan": 3,
+            "penangananKhusus": false,
+            "lokasi": "jl Karya Tani Gg Damai",
+            "kecamatan": 11,
+            "titikKoordinatLink": "https://maps.app.goo.gl/EYKhwRVuK6PKuV1dA",
+            "latitude": 3.5386017,
+            "longitude": 98.6713637,
+            "pelaporOpd": 19,
+            "pelaporName": null,
+            "opdPenanggungJawab": 54,
+            "unitTujuan": null,
+            "tanggalLaporan": 1778950800,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779265948966-ad9a9655-95ee-46f3-804b-6cde15ff3a9b-u9r46o8y.jpg\"]",
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779265949,
+            "updatedAt": 1779265949,
+            "kategoriPermasalahanRef": {
+                "id": 3,
+                "namaKategori": "LPJU tidak berfungsi",
+                "jenisKategori": "PJU dan Lampu Lalu Lintas"
+            },
+            "pelaporOpdRef": {
+                "id": 19,
+                "namaOpd": "Kecamatan Medan Johor",
+                "namaPenanggungJawab": "GUNAWAN PERANGIN ANGIN, S.T.,MM",
+                "namaJabatanPenanggungJawab": "Camat Medan Johor Kota Medan (Sebelumnya)"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 54,
+                "namaOpd": "Dinas Perhubungan Kota Medan",
+                "namaPenanggungJawab": "IRSAN IDRIS NASUTION, A.P",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Perhubungan Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 11,
+                "namaKecamatan": "Medan Johor"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3596,
+            "nomorLaporan": "205 / Medan Johor",
+            "subjekLaporan": "lampu lpju mati 3 titik",
+            "kategoriPermasalahan": 3,
+            "penangananKhusus": false,
+            "lokasi": "jl karya bersama kelurahan pangkalan masyhur",
+            "kecamatan": 11,
+            "titikKoordinatLink": "https://maps.app.goo.gl/keyzHEinMne19oVx8?g_st=ac",
+            "latitude": 3.53052572713981,
+            "longitude": 98.680191149067,
+            "pelaporOpd": 19,
+            "pelaporName": null,
+            "opdPenanggungJawab": 54,
+            "unitTujuan": null,
+            "tanggalLaporan": 1778950800,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": "[\"1779264838903-a6801083-5a16-47b9-82b2-0344222aebd7-ued2f8fu.jpg\"]",
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779264839,
+            "updatedAt": 1779264839,
+            "kategoriPermasalahanRef": {
+                "id": 3,
+                "namaKategori": "LPJU tidak berfungsi",
+                "jenisKategori": "PJU dan Lampu Lalu Lintas"
+            },
+            "pelaporOpdRef": {
+                "id": 19,
+                "namaOpd": "Kecamatan Medan Johor",
+                "namaPenanggungJawab": "GUNAWAN PERANGIN ANGIN, S.T.,MM",
+                "namaJabatanPenanggungJawab": "Camat Medan Johor Kota Medan (Sebelumnya)"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 54,
+                "namaOpd": "Dinas Perhubungan Kota Medan",
+                "namaPenanggungJawab": "IRSAN IDRIS NASUTION, A.P",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Perhubungan Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 11,
+                "namaKecamatan": "Medan Johor"
+            },
+            "unitTujuanRef": null
+        },
+        {
+            "id": 3595,
+            "nomorLaporan": "95/MEDAN LABUHAN",
+            "subjekLaporan": "LPJU padam/mati  sebanyak 3 (TIGA) titik",
+            "kategoriPermasalahan": 3,
+            "penangananKhusus": false,
+            "lokasi": "JL. BENTENG BARU",
+            "kecamatan": 13,
+            "titikKoordinatLink": "https://maps.app.goo.gl/JEs9M4ufp4dDvXKb9?g_st=aw",
+            "latitude": 3.7462216478639303,
+            "longitude": 98.67321209326396,
+            "pelaporOpd": 22,
+            "pelaporName": null,
+            "opdPenanggungJawab": 54,
+            "unitTujuan": null,
+            "tanggalLaporan": 1778950800,
+            "tanggalSurvei": null,
+            "tanggalSelesaiPekerjaan": null,
+            "waktuPenyelesaian": null,
+            "progress": "Belum Ditindaklanjuti",
+            "catatan": null,
+            "statusSdabmbk": "Ditolak",
+            "anggaranSdabmbk": "Sudah Dianggarkan",
+            "dokumentasiLaporan": null,
+            "dokumentasiSurvei": null,
+            "dokumentasiTindakan": null,
+            "keterangan": null,
+            "createdAt": 1779264660,
+            "updatedAt": 1779264660,
+            "kategoriPermasalahanRef": {
+                "id": 3,
+                "namaKategori": "LPJU tidak berfungsi",
+                "jenisKategori": "PJU dan Lampu Lalu Lintas"
+            },
+            "pelaporOpdRef": {
+                "id": 22,
+                "namaOpd": "Kecamatan Medan Labuhan",
+                "namaPenanggungJawab": "KHAIRUN NASYIR TAMBUSAI, S.S.T.P., M.SP.",
+                "namaJabatanPenanggungJawab": "Camat Medan Labuhan Kota Medan (Sebelumnya)"
+            },
+            "opdPenanggungJawabRef": {
+                "id": 54,
+                "namaOpd": "Dinas Perhubungan Kota Medan",
+                "namaPenanggungJawab": "IRSAN IDRIS NASUTION, A.P",
+                "namaJabatanPenanggungJawab": "Kepala Dinas Perhubungan Kota Medan"
+            },
+            "kecamatanRef": {
+                "id": 13,
+                "namaKecamatan": "Medan Labuhan"
+            },
+            "unitTujuanRef": null
+        }
+    ],
+    "total": 3604,
+    "page": 1,
+    "limit": 10
+}
