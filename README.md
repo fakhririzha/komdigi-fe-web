@@ -1,21 +1,16 @@
-# Next.js template
+# Petunjuk Singkat Menjalankan Aplkasi
 
-This is a Next.js template with shadcn/ui.
-
-## Adding components
-
-To add components to your app, run the following command:
+1. Pastikan anda sudah menginstall Node.js v20+
+2. Clone repository ini
+3. Buat file .env di root folder, untuk sample bisa cek disini
 
 ```bash
-npx shadcn@latest add button
+NEXT_PUBLIC_GOOGLE_CLIENT_ID=
+NEXT_PUBLIC_GOOGLE_CLIENT_SECRET=
+AUTH_SECRET=
+AUTH_URL=
+NEXTAUTH_URL=
 ```
 
-This will place the ui components in the `components` directory.
-
-## Using components
-
-To use the components in your app, import them as follows:
-
-```tsx
-import { Button } from "@/components/ui/button";
-```
+4. RUN pnpm install
+5. RUN pnpm run dev
